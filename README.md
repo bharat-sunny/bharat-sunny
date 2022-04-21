@@ -33,8 +33,8 @@ Here are some ideas to get you started:
 - [Software Develpment Engineer (TCS)](https://www.tcs.com) - (Aug'18-Jun'21)
 <!-- - [BAT Ambassador (Brave)](https://brave.com/) - (Apr'21-Present) -->
 
-![Aakash's github stats](https://github-readme-stats.vercel.app/api?username=isupersky&show_icons=true&hide_border=true)&nbsp;&nbsp;
-![Aakash's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=isupersky&layout=compact&langs_count=8&hide_border=true)
+![Bharat's github stats](https://github-readme-stats.vercel.app/api?username=bharat-sunny&show_icons=true&hide_border=true)&nbsp;&nbsp;
+![Bharat's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=isupersky&layout=compact&langs_count=8&hide_border=true)
 <br />
 
 
