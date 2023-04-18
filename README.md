@@ -72,5 +72,3 @@ Now I'm living in Boston,MA and work as a fullstack software engineer.
 <img align="left" alt="FileZilla" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" /><br />
 
 <br/>
-
-### Others
