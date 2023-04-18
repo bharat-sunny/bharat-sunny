@@ -1,8 +1,8 @@
 # Bharat Tankala
 
-**`Fullstack Developer / Content Creator`**
+**`Fullstack Developer`**
 
-Hi everyone, I'm Bharat. I'm from India. I graduated University of Information Technology, Northeastern University, Boston,USA.
+Hi everyone, I'm Bharat. I'm from India. I graduated University of Information Technology, Northeastern University, Boston.
 Now I'm living in Boston,MA and work as a fullstack software engineer.
 
   <p align="left">
@@ -10,10 +10,7 @@ Now I'm living in Boston,MA and work as a fullstack software engineer.
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCnNgtK4tGlWcceXVzoyTg8Q?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
       <a href="https://www.youtube.com/c/tuattrananh">
          <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCnNgtK4tGlWcceXVzoyTg8Q?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a>-->
-      <a href="https://github.com/trananhtuat?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/trananhtuat?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/trananhtuat?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/trananhtuat?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+      
    </p>
 
 ---
@@ -77,5 +74,3 @@ Now I'm living in Boston,MA and work as a fullstack software engineer.
 <br/>
 
 ### Others
-
-<img title="Temi Robo" align="left" alt="Temi Robo" width="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/67447840/220040155-de098efa-a4c3-42d3-ae99-724e09360704.png" /><br />
