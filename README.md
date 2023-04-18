@@ -2,9 +2,8 @@
 
 **`Fullstack Developer`**
 
-Hi everyone, I'm Bharat. I'm from India. I graduated University of Information Technology, Northeastern University, Boston.
-Now I'm living in Boston,MA and work as a fullstack software engineer.
-
+Hi everyone, I graduated University of Northeastern University, Boston.
+I am a full-stack software engineer living in Boston and looking for Full-time opportunities.
   <p align="left">
       <!--<a href="https://www.youtube.com/c/tuattrananh?sub_confirmation=1">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCnNgtK4tGlWcceXVzoyTg8Q?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
