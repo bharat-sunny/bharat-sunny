@@ -2,7 +2,7 @@
 
 **`Fullstack Developer / Content Creator`**
 
-Hi everyone, I'm Bharat. I'm from India. I graduated University of Information Technology, Northeastern University, Ho Chi Minh City.
+Hi everyone, I'm Bharat. I'm from India. I graduated University of Information Technology, Northeastern University, Boston,USA.
 Now I'm living in Boston,MA and work as a fullstack software engineer.
 
   <p align="left">
