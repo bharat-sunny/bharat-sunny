@@ -2,7 +2,7 @@
 
 **`Fullstack Developer`**
 
-Hi everyone, I graduated University of Northeastern University, Boston.
+Hi everyone, I graduated student of Northeastern University, Boston.
 I am a full-stack software engineer living in Boston and looking for Full-time opportunities.
   <p align="left">
       <!--<a href="https://www.youtube.com/c/tuattrananh?sub_confirmation=1">
