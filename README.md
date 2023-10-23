@@ -2,7 +2,7 @@
 
 **`Fullstack Developer`**
 
-Hi everyone, I am a graduate student of Northeastern University, Boston.
+Hi everyone, I am Software Engineer with 4 years of expereince in deploying and managing data-centric and machine-learning applications and a graduate of Northeastern University, Boston.
 Right now, I am seeking full-time opportunities in the fields of Software Engineer / Full Stack / Backend / DevOps.
   <p align="left">
       <!--<a href="https://www.youtube.com/c/tuattrananh?sub_confirmation=1">
