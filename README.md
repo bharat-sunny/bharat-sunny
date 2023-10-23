@@ -2,8 +2,8 @@
 
 **`Fullstack Developer`**
 
-Hi everyone, I am Software Engineer with 4 years of expereince in deploying and managing data-centric and machine-learning applications and a graduate of Northeastern University, Boston.
-Right now, I am seeking full-time opportunities in the fields of Software Engineer / Full Stack / Backend / DevOps.
+Hello, I'm a Software Engineer with four years of experience in deploying and managing data-centric and machine-learning applications. I am a Computer information Systems grad from Northeastern University, Boston. 
+Currently, I am actively looking for full-time opportunities in Software Engineering, Full Stack Development, Backend Development, and DevOps. 
   <p align="left">
       <!--<a href="https://www.youtube.com/c/tuattrananh?sub_confirmation=1">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCnNgtK4tGlWcceXVzoyTg8Q?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
