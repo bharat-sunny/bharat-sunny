@@ -1,73 +1,114 @@
 # Bharat Tankala
 
-**`Fullstack Developer`**
+**`Software Engineer | Machine Learning & Backend Specialist`**
 
-Hello, I'm a Software Engineer with four years of experience in deploying and managing data-centric and machine-learning applications. I am a Computer information Systems grad from Northeastern University, Boston. 
-Currently, I am actively looking for full-time opportunities in Software Engineering, Full Stack Development, Backend Development, and DevOps. 
-  <p align="left">
-      <!--<a href="https://www.youtube.com/c/tuattrananh?sub_confirmation=1">
-         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCnNgtK4tGlWcceXVzoyTg8Q?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-      <a href="https://www.youtube.com/c/tuattrananh">
-         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCnNgtK4tGlWcceXVzoyTg8Q?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a>-->
-      
-   </p>
+Hello, I'm Bharat Tankala, a Software Engineer with 5 years of experience specializing in machine learning, backend development, and multi-cloud infrastructure. My expertise includes building and deploying robust data-centric and machine-learning applications using FastAPI, Django, Flask, and Node.js. I hold a Master’s degree in Computer Information Systems from Northeastern University, Boston, and a bachelors degree from SRM University.
+
+You can connect with me on [LinkedIn](https://www.linkedin.com/in/bharat-t) or view my projects on [GitHub](https://github.com/bharat-sunny).
 
 ---
 
-### Frontend
+### Skills
 
-<img align="left" alt="React" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="Redux" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
-<img align="left" alt="TypeScript" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="JavaScript" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="HTML" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="SASS" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-<img align="left" alt="MUI" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
-<img align="left" alt="TailwindCSS" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" /><br />
+#### Machine Learning & Data Science
 
-<br/>
+<div style="display: inline-block;">
+  <img align="center" alt="Python" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="center" alt="TensorFlow" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
+  <img align="center" alt="PyTorch" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
+  <img align="center" alt="Jupyter" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
+  <img align="center" alt="Pandas" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
+  <img align="center" alt="NumPy" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
+  <img align="center" alt="scikit-learn" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />
+  <img align="center" alt="Hugging Face" width="50px" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" />
+</div>
 
-### Backend
+#### Backend Development
 
-<img align="left" alt="NodeJS" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="Python" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="CSharp" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-<img align="left" alt=".Net Core" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
-<img align="left" alt="Express" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
-<img align="left" alt="Socket" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original-wordmark.svg" /><br />
+<div style="display: inline-block;">
+  <img align="center" alt="Node.js" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img align="center" alt="Express.js" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+  <img align="center" alt="Django" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
+  <img align="center" alt="Flask" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
+  <img align="center" alt="FastAPI" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" />
+  <img align="center" alt="GraphQL" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
+</div>
 
-<br/>
+#### Frontend Development
 
-### Mobile
+<div style="display: inline-block;">
+  <img align="center" alt="React" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="center" alt="Redux" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+  <img align="center" alt="TypeScript" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+  <img align="center" alt="JavaScript" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+  <img align="center" alt="HTML5" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+  <img align="center" alt="CSS3" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+  <img align="center" alt="Material-UI" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
+  <img align="center" alt="Tailwind CSS" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" />
+</div>
 
-<img align="left" alt="Android" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg" />
-<img align="left" alt="Kotlin" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
-<img align="left" alt="Flutter" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" /><br />
+#### Databases
 
-<br/>
+<div style="display: inline-block;">
+  <img align="center" alt="MongoDB" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+  <img align="center" alt="PostgreSQL" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+  <img align="center" alt="MySQL" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <img align="center" alt="Redis" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
+</div>
 
-### Database
+#### Cloud & DevOps
 
-<img align="left" alt="MongoDB" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-<img align="left" alt="PostgreSQL" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-<img align="left" alt="MySQL" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /><br />
+<div style="display: inline-block;">
+  <img align="center" alt="AWS" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
+  <img align="center" alt="Azure" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
+  <img align="center" alt="Docker" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+  <img align="center" alt="Kubernetes" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
+  <img align="center" alt="Terraform" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />
+  <img align="center" alt="GitHub Actions" width="50px" src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" />
+</div>
 
-<br/>
+#### Tools & Technologies
+- **Programming Languages**: Python, JavaScript, TypeScript, Java, C++
+- **Web Technologies**: React, HTML, CSS, SCSS, Node.js, Express.js, Next.js
+- **CI/CD & Infrastructure**: GitHub Actions, Terraform, CloudFormation, AWS (EC2, S3, IAM, Lambda, RDS, API Gateway)
+- **Databases**: MySQL, DynamoDB, Redis, MongoDB, PostgreSQL
 
-### Services
+---
 
-<img align="left" alt="AWS" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
-<img align="left" alt="Git" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="GitHub" width="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/67447840/220037637-cff5669e-da0e-45de-98f1-cdf5b67fff26.png" />
-<img align="left" alt="Firebase" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" /><br />
+### Experience
 
-<br/>
+#### Toyota North America — *Software Engineer - Data Science Platform*
+*January 2024 - Present, Dallas, TX*
 
-### Tools
+- Developed Toyota’s Data Science Platform using React (frontend) and FastAPI (backend), integrated with ServiceNow and GitHub.
+- Architected a serverless chat application with AWS Bedrock APIs, implementing RAG techniques.
+- Streamlined MLOps pipelines with GitHub Actions and Terraform, managing deployments across AWS SageMaker and Google Vertex AI.
+- Deployed frontend on Amazon S3 and CloudFront with WAF, and backend on Amazon ECS for secure, high-availability infrastructure.
 
-<img align="left" alt="Postman" width="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/67447840/220038329-e5213d83-ec34-4a82-9647-1b70ff8f2bfe.png" />
-<img align="left" alt="Putty" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" />
-<img align="left" alt="FileZilla" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" /><br />
+#### The Housing Collective — *Software Data Engineer*
+*June 2022 - September 2022, Boston, MA*
 
-<br/>
+- Analyzed trends on homelessness by processing 4 million records of shelter data, using SQL and Python.
+- Developed a Flask-based backend for analytics and implemented Kafka-driven event processing architecture.
+- Automated ETL pipelines and built real-time data visualization with Tableau.
+
+#### Tata Consultancy Services — *Software Engineer - MLOPS*
+*August 2018 - July 2021, Bangalore, India*
+
+- Led deep learning projects with React and Flask, achieving high model accuracy and deploying on AWS ECS.
+- Automated ML pipelines using Kubernetes, optimizing resource management and minimizing downtime.
+- Built CI/CD pipelines using Infrastructure as Code, leveraging AWS CDK and Terraform for cloud deployments.
+
+#### Softriyx — *Software Developer*
+*May 2016 - June 2018, Chennai, India*
+
+- Developed travel optimization algorithms using A* and heuristic techniques, enhancing user experience.
+- Built an interactive UI using React and Java Spring with Spring Boot’s microservices.
+
+---
+
+### Certifications
+
+- **AWS Certified Solutions Architect**
+- **AWS Certified Developer**
+- **OCI Generative AI Certified Professional**
